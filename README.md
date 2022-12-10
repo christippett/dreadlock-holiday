@@ -1,1 +1,3 @@
-<img src="title.png" width="100%" height="100%" />
+<a href="https://dreadlock.holiday"><img src="title.png" width="70%" /></a>
+
+![🏖️](background.jpg)
